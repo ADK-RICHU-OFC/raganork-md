@@ -57,9 +57,16 @@ module.exports = {
     NOT_ALLOWED: process.env.ALLOWED || '91,94,212',
     CHATBOT: process.env.CHATBOT || 'off',
     HANDLERS: process.env.HANDLERS || '.,',
-    STICKER_DATA: process.env.STICKER_DATA || "𝚫𝐃𝐊 𝚪𝚰𝐂𝚮𝐔 🕊️",
+    STICKER_DATA: process.env.STICKER_DATA || "
+𝚫𝐃𝐊 𝚪𝚰𝐂𝚮𝐔 🕊️
+
+루한 & 구안 💗
+
++916282122603
+
+삶이 힘들지만 불가능한 것은 아니다 🙌🏻 🕊️",
     BOT_NAME: process.env.BOT_NAME || 'ᴀᴅᴋ_ʀᴉᴄʜᴜ',
-    AUDIO_DATA: process.env.AUDIO_DATA === undefined || process.env.AUDIO_DATA === "private" ? 'ꪶ͢٭𝑺𝜣𝑼𝑹𝛢𝑽𝑲𝑳¹¹ꫂ;Raganork MD bot;https://i.imgur.com/P7ziVhr.jpeg' : process.env.AUDIO_DATA,
+    AUDIO_DATA: process.env.AUDIO_DATA === undefined || process.env.AUDIO_DATA === "private" ? 'ᴉᴛᴢ ᴍᴇ ᴀᴅᴋ_ʀᴉᴄʜᴜ;Hope you will enjoy the music!;https://i.ibb.co/CKSbNcL/3d759ac8c859.jpg' : process.env.AUDIO_DATA,
     TAKE_KEY: process.env.TAKE_KEY || '',
     MODE: process.env.MODE || 'public',
     WARN: process.env.WARN || '4',
